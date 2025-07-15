@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jijij\\onedrive\\desktop\\hw07\\hw07\\intermediate\\build\\win64\\unrealeditor\\inc\\hw07\\uht\\myplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jijij\\onedrive\\desktop\\hw07\\hw07\\intermediate\\build\\win64\\x64\\hw07editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jijij\\onedrive\\desktop\\hw07\\hw07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw07\\definitions.hw07.h",
+            "c:\\users\\jijij\\onedrive\\desktop\\hw07\\hw07\\source\\hw07\\public\\myplayercontroller.h",
+            "c:\\users\\jijij\\onedrive\\desktop\\hw07\\hw07\\intermediate\\build\\win64\\unrealeditor\\inc\\hw07\\uht\\myplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
